@@ -7,7 +7,7 @@
   <br/>
   
 [![](https://visitcount.itsvg.in/api?id=SapanMozammel&icon=5&color=12)](https://visitcount.itsvg.in)
-# 🌟 I'm a Senior Front-End Developer 🌟
+# 🌟 I'm a Front-End Developer 🌟
 </div>
 
 
