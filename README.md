@@ -1,17 +1,21 @@
+
+
 <div id="header" align="center">
-  
+
 # Hi there, I'm [Sapan Mozammel][website] 👋  
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   <br/>
-  
+  <br/>
+
 [![](https://visitcount.itsvg.in/api?id=SapanMozammel&icon=5&color=12)](https://visitcount.itsvg.in)
-# 🌟 I'm a Front-End Developer 🌟
+# 🌟 I'm a Senior Front-End Developer 🌟
 </div>
 
 
 ### Contact With Me
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sapanmozammel/)
 [![Facebook](https://img.shields.io/badge/-Facebook-%232c3e50?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100006385456989)
 [![Instagram](https://img.shields.io/badge/-Instagram-%232c3e50?style=for-the-badge&logo=instagram)](https://www.instagram.com/sapanmozammel/?fbclid=IwAR260q7QCVQA8rdLw6tVloZMaaKeC0ldxAd_pl7Dc4t7CSNGBdpvSjvxe9I)
@@ -21,24 +25,31 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-%232c3e50?style=for-the-badge&logo=twitter)](https://twitter.com/sapan_mozammel)
 
 
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SapanMozammel&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-
 ### My Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
-![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
-![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
-![NextJs](https://img.shields.io/badge/-NextJs-%232c3e50?style=for-the-badge&logo=Next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=for-the-badge&logo=typescript)
+![React.Js](https://img.shields.io/badge/-React.Js-%232c3e50?style=for-the-badge&logo=react)
+![Next.Js](https://img.shields.io/badge/-Next.Js-%232c3e50?style=for-the-badge&logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-%232c3e50?style=for-the-badge&logo=redux)
+![GraphQL](https://img.shields.io/badge/-GraphQL-%232c3e50?style=for-the-badge&logo=GraphQL)
+![Three.Js](https://img.shields.io/badge/-Three.Js-%232c3e50?style=for-the-badge&logo=three.js)
+![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
+![SASS](https://img.shields.io/badge/-SASS-%232c3e50?style=for-the-badge&logo=sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
+![WordPress](https://img.shields.io/badge/-WordPress-%232c3e50?style=for-the-badge&logo=wordpress)
+![Webpack](https://img.shields.io/badge/-Webpack-%232c3e50?style=for-the-badge&logo=Webpack)
+![PostCSS](https://img.shields.io/badge/-PostCSS-%232c3e50?style=for-the-badge&logo=postcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
-![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
 
 
 # 📊 GitHub Stats:
@@ -50,6 +61,7 @@
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sapanmozammel) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sapanmozammel) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sapanmozammel) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sapanmozammel) 
+
 
 
 [website]: https://sapan-portfolio.vercel.app
