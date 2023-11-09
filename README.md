@@ -10,13 +10,13 @@
   <br/>
 
 [![](https://visitcount.itsvg.in/api?id=SapanMozammel&icon=5&color=12)](https://visitcount.itsvg.in)
-# 🌟 I'm a Front-End Developer 🌟
+# 🌟 I'm a FrontEnd Developer 🌟
 </div>
 
 
 ### Contact With Me
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sapanmozammel/)
+![Linkedin](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)
 [![Facebook](https://img.shields.io/badge/-Facebook-%232c3e50?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100006385456989)
 [![Instagram](https://img.shields.io/badge/-Instagram-%232c3e50?style=for-the-badge&logo=instagram)](https://www.instagram.com/sapanmozammel/?fbclid=IwAR260q7QCVQA8rdLw6tVloZMaaKeC0ldxAd_pl7Dc4t7CSNGBdpvSjvxe9I)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-%232c3e50?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/sapanmozammel/)
@@ -65,3 +65,4 @@
 
 
 [website]: https://sapan-portfolio.vercel.app
+[Linkedin] : https://www.linkedin.com/in/sapanmozammel/
