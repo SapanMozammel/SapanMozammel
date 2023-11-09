@@ -16,7 +16,7 @@
 
 ### Contact With Me
 
-[https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)][LinkedinProfile]
+[![Linkedinn](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)][LinkedinProfile]
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sapanmozammel/)
 [![Facebook](https://img.shields.io/badge/-Facebook-%232c3e50?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100006385456989)
 [![Instagram](https://img.shields.io/badge/-Instagram-%232c3e50?style=for-the-badge&logo=instagram)](https://www.instagram.com/sapanmozammel/?fbclid=IwAR260q7QCVQA8rdLw6tVloZMaaKeC0ldxAd_pl7Dc4t7CSNGBdpvSjvxe9I)
