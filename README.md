@@ -16,7 +16,7 @@
 
 ### Contact With Me
 
-[[![Linkedin](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sapanmozammel/){:target="_blank" rel="noopener"}]
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)][LinkedinLink]
 [![Facebook](https://img.shields.io/badge/-Facebook-%232c3e50?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100006385456989)
 [![Instagram](https://img.shields.io/badge/-Instagram-%232c3e50?style=for-the-badge&logo=instagram)](https://www.instagram.com/sapanmozammel/?fbclid=IwAR260q7QCVQA8rdLw6tVloZMaaKeC0ldxAd_pl7Dc4t7CSNGBdpvSjvxe9I)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-%232c3e50?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/sapanmozammel/)
@@ -63,5 +63,5 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sapanmozammel) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sapanmozammel) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sapanmozammel) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sapanmozammel) 
 
 
-
 [website]: https://sapan-portfolio.vercel.app
+[LinkedinLink]: https://www.linkedin.com/in/sapanmozammel/
