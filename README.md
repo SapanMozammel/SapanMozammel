@@ -28,7 +28,7 @@
 
 ### My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%232c3e50?style=for-the-badge&logo=typescript)
 ![React.Js](https://img.shields.io/badge/-React.Js-%232c3e50?style=for-the-badge&logo=react)
 ![Next.Js](https://img.shields.io/badge/-Next.Js-%232c3e50?style=for-the-badge&logo=Next.js)
