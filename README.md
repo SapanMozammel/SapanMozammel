@@ -17,7 +17,7 @@
 ### Contact With Me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%232c3e50?style=for-the-badge&logo=linkedin)][LinkedinLink]
-[![Facebook](https://img.shields.io/badge/-Facebook-%232c3e50?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100006385456989)
+[![Facebook](https://img.shields.io/badge/-Facebook-%232c3e50?style=for-the-badge&logo=facebook)][FacebookLink]
 [![Instagram](https://img.shields.io/badge/-Instagram-%232c3e50?style=for-the-badge&logo=instagram)](https://www.instagram.com/sapanmozammel/?fbclid=IwAR260q7QCVQA8rdLw6tVloZMaaKeC0ldxAd_pl7Dc4t7CSNGBdpvSjvxe9I)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-%232c3e50?style=for-the-badge&logo=pinterest)](https://www.pinterest.com/sapanmozammel/)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-%232c3e50?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/18916441/mozammel-ali)
@@ -64,4 +64,9 @@
 
 
 [website]: https://sapan-portfolio.vercel.app
+[LinkedinLink]: https://www.linkedin.com/in/sapanmozammel/
+[FacebookLink]: https://www.facebook.com/profile.php?viewas=100000686899395&id=100006385456989
+[LinkedinLink]: https://www.linkedin.com/in/sapanmozammel/
+[LinkedinLink]: https://www.linkedin.com/in/sapanmozammel/
+[LinkedinLink]: https://www.linkedin.com/in/sapanmozammel/
 [LinkedinLink]: https://www.linkedin.com/in/sapanmozammel/
