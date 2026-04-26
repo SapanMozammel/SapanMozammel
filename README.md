@@ -2,12 +2,12 @@
 
 <div id="header" align="center">
 
-# Hi there, I'm [Sapan Mozammel][website] 👋  
+# Hi there, I'm [Sapan Mozammel ( Mozammel Ali )][website] 👋  
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 
-# 🌟 I'm a FrontEnd Developer 🌟
+# 🌟 I'm a Frontend Developer with 6+ years experience 🌟
 </div>
 
 
@@ -63,7 +63,7 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sapanmozammel) 
 
 
-[website]: https://sapan-portfolio.vercel.app
+[website]: https://sapan-dev.vercel.app
 [LinkedinLink]: https://www.linkedin.com/in/sapanmozammel/
 [FacebookLink]: https://www.facebook.com/profile.php?viewas=100000686899395&id=100006385456989
 [InstagramLink]: https://www.instagram.com/sapanmozammel/?fbclid=IwAR260q7QCVQA8rdLw6tVloZMaaKeC0ldxAd_pl7Dc4t7CSNGBdpvSjvxe9I
