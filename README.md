@@ -18,6 +18,19 @@ Crafting end-to-end web applications, robust backend services, and agentic devel
 
 ---
 
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SapanMozammel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SapanMozammel&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SapanMozammel&theme=tokyonight&hide_border=true" height="155" alt="Streak Stats" />
+</p>
+
+---
+
 <p align="left">
   <sub>Focused on Next.js App Router, React 19, Node.js APIs, PostgreSQL, and autonomous AI workflows.</sub>
 </p>
