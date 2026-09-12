@@ -34,7 +34,11 @@ Crafting end-to-end web applications, robust backend services, and agentic devel
 ### ☕ Support My Work
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/sapanmozamammel" target="_blank">
+  <a href="https://github.com/sponsors/SapanMozammel" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="42" alt="GitHub Sponsors" />
+  </a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/sapanmozamammel" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
   </a>
 </p>
