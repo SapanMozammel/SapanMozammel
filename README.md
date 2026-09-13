@@ -1,7 +1,7 @@
 # Sapan Mozammel
 
-Frontend specialist expanding into full-stack development.  
-Crafting end-to-end web applications, robust backend services, and agentic developer tooling.
+Frontend specialist & full-stack systems engineer.  
+Building robust web architectures, high-performance UI primitives, and autonomous AI developer tooling.
 
 - 🌐 **Portfolio & Digital Garden:** [sapan-dev.vercel.app](https://sapan-dev.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/sapanmozammel](https://www.linkedin.com/in/sapanmozammel/)
@@ -10,7 +10,50 @@ Crafting end-to-end web applications, robust backend services, and agentic devel
 
 ---
 
-### Tech Stack
+### 🚀 Featured Open Source & Engineering Tools
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/SapanMozammel/auterix">Auterix</a></h3>
+      <p>Universal multi-agent context engine & deterministic workflow standard across 21 AI assistants (Cursor, Claude Code, Copilot, Antigravity, Windsurf). Includes an 8-check diagnostic doctor and Web Studio.</p>
+      <p>
+        <a href="https://github.com/SapanMozammel/auterix"><img src="https://img.shields.io/github/stars/SapanMozammel/auterix?style=social" alt="Stars" /></a>
+        <a href="https://www.npmjs.com/package/auterix"><img src="https://img.shields.io/npm/v/auterix?color=crimson" alt="npm" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/SapanMozammel/react-render-kit">React Render Kit</a></h3>
+      <p>Zero-dependency, developer-friendly React performance utilities focused on visualizing, profiling, and eliminating unexpected component re-renders.</p>
+      <p>
+        <a href="https://github.com/SapanMozammel/react-render-kit"><img src="https://img.shields.io/github/stars/SapanMozammel/react-render-kit?style=social" alt="Stars" /></a>
+        <a href="https://github.com/SapanMozammel/react-render-kit"><img src="https://img.shields.io/badge/React-18%20%7C%2019-blue" alt="React 18/19" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/SapanMozammel/exhuma">Exhuma</a></h3>
+      <p>High-performance React layout primitives, fluid GPU-accelerated interactive stacking cards, and modular component design architecture.</p>
+      <p>
+        <a href="https://github.com/SapanMozammel/exhuma"><img src="https://img.shields.io/github/stars/SapanMozammel/exhuma?style=social" alt="Stars" /></a>
+        <a href="https://github.com/SapanMozammel/exhuma"><img src="https://img.shields.io/badge/TypeScript-Strict-blue" alt="TypeScript" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/SapanMozammel/wavelength">Wavelength</a></h3>
+      <p>Modern real-time communication platform built with React 19, Next.js 16, Socket.io, typed API error taxonomy, and resilient optimistic UI updates.</p>
+      <p>
+        <a href="https://github.com/SapanMozammel/wavelength"><img src="https://img.shields.io/github/stars/SapanMozammel/wavelength?style=social" alt="Stars" /></a>
+        <a href="https://github.com/SapanMozammel/wavelength"><img src="https://img.shields.io/badge/Next.js-16-black" alt="Next.js 16" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,graphql,git,docker,vercel" alt="Tech Stack" />
@@ -31,16 +74,6 @@ Crafting end-to-end web applications, robust backend services, and agentic devel
 
 ---
 
-### ☕ Support My Work
-
 <p align="left">
-  <a href="https://buymeacoffee.com/sapanmozamammel" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
-  </a>
-</p>
-
----
-
-<p align="left">
-  <sub>Focused on Next.js App Router, React 19, Node.js APIs, PostgreSQL, and autonomous AI workflows.</sub>
+  <sub>⭐ If you find any of my open-source tools useful, consider dropping a star — it keeps the projects growing!</sub>
 </p>
