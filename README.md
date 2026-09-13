@@ -10,7 +10,7 @@ Building robust web architectures, high-performance UI primitives, and autonomou
 
 ---
 
-### 🚀 Featured Open Source & Engineering Tools
+### 🚀 Featured Engineering Projects
 
 <table>
   <tr>
@@ -23,16 +23,6 @@ Building robust web architectures, high-performance UI primitives, and autonomou
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/SapanMozammel/react-render-kit">React Render Kit</a></h3>
-      <p>Zero-dependency, developer-friendly React performance utilities focused on visualizing, profiling, and eliminating unexpected component re-renders.</p>
-      <p>
-        <a href="https://github.com/SapanMozammel/react-render-kit"><img src="https://img.shields.io/github/stars/SapanMozammel/react-render-kit?style=social" alt="Stars" /></a>
-        <a href="https://github.com/SapanMozammel/react-render-kit"><img src="https://img.shields.io/badge/React-18%20%7C%2019-blue" alt="React 18/19" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🎨 <a href="https://github.com/SapanMozammel/exhuma">Exhuma</a></h3>
       <p>High-performance React layout primitives, fluid GPU-accelerated interactive stacking cards, and modular component design architecture.</p>
       <p>
@@ -40,12 +30,22 @@ Building robust web architectures, high-performance UI primitives, and autonomou
         <a href="https://github.com/SapanMozammel/exhuma"><img src="https://img.shields.io/badge/TypeScript-Strict-blue" alt="TypeScript" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/SapanMozammel/wavelength">Wavelength</a></h3>
-      <p>Modern real-time communication platform built with React 19, Next.js 16, Socket.io, typed API error taxonomy, and resilient optimistic UI updates.</p>
+      <h3>🌐 <a href="https://github.com/SapanMozammel/sapan-dev">sapan.dev</a></h3>
+      <p>Personal portfolio, digital garden, and design playground engineered with Next.js App Router, Tailwind CSS, and polished micro-interactions.</p>
       <p>
-        <a href="https://github.com/SapanMozammel/wavelength"><img src="https://img.shields.io/github/stars/SapanMozammel/wavelength?style=social" alt="Stars" /></a>
-        <a href="https://github.com/SapanMozammel/wavelength"><img src="https://img.shields.io/badge/Next.js-16-black" alt="Next.js 16" /></a>
+        <a href="https://github.com/SapanMozammel/sapan-dev"><img src="https://img.shields.io/github/stars/SapanMozammel/sapan-dev?style=social" alt="Stars" /></a>
+        <a href="https://sapan-dev.vercel.app"><img src="https://img.shields.io/badge/Live-sapan--dev.vercel.app-sky" alt="Live Site" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/SapanMozammel/aufnehmen">Aufnehmen</a></h3>
+      <p>Enterprise MENN (MongoDB, Express, Next.js, Node.js) full-stack foundation with Auterix AI workflow, OpenAPI contracts, and strict architecture gates.</p>
+      <p>
+        <a href="https://github.com/SapanMozammel/aufnehmen"><img src="https://img.shields.io/github/stars/SapanMozammel/aufnehmen?style=social" alt="Stars" /></a>
+        <a href="https://github.com/SapanMozammel/aufnehmen"><img src="https://img.shields.io/badge/Stack-MENN-emerald" alt="MENN" /></a>
       </p>
     </td>
   </tr>
