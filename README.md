@@ -6,7 +6,8 @@ Building high-performance web architectures, GPU-accelerated UI primitives, and 
 - 🌐 **Portfolio & Digital Garden:** [sapan-dev.vercel.app](https://sapan-dev.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/sapanmozammel](https://www.linkedin.com/in/sapanmozammel/)
 - 🪶 **X / Twitter:** [@sapan_mozammel](https://twitter.com/sapan_mozammel)
-- 💬 **Discord:** `sapanmozammel`
+- 💬 **Discord:** [sapanmozammel](https://discord.com/users/1097787906195722240)
+- ✈️ **Telegram:** [@sapanmozammel](https://t.me/sapanmozammel)
 
 ---
 
