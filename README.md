@@ -8,6 +8,7 @@ Building high-performance web architectures, GPU-accelerated UI primitives, and 
 - 🪶 **X / Twitter:** [@sapan_mozammel](https://twitter.com/sapan_mozammel)
 - 💬 **Discord:** [sapanmozammel](https://discord.com/users/1097787906195722240)
 - ✈️ **Telegram:** [@sapanmozammel](https://t.me/sapanmozammel)
+- 📱 **WhatsApp:** [+880 1627-134085](https://wa.me/8801627134085)
 
 ---
 
