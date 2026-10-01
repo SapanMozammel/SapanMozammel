@@ -1,7 +1,7 @@
 # Sapan Mozammel
 
-Frontend specialist & full-stack systems engineer.  
-Building robust web architectures, high-performance UI primitives, and autonomous AI developer tooling.
+Founder & Systems Architect at [**Fleect**](https://github.com/Fleect).  
+Building high-performance web architectures, GPU-accelerated UI primitives, and autonomous AI developer tooling.
 
 - 🌐 **Portfolio & Digital Garden:** [sapan-dev.vercel.app](https://sapan-dev.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/sapanmozammel](https://www.linkedin.com/in/sapanmozammel/)
@@ -15,19 +15,19 @@ Building robust web architectures, high-performance UI primitives, and autonomou
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/SapanMozammel/auterix">Auterix</a></h3>
+      <h3>⚡ <a href="https://github.com/Fleect/auterix">Auterix</a></h3>
       <p>Universal multi-agent context engine & deterministic workflow standard across 21 AI assistants (Cursor, Claude Code, Copilot, Antigravity, Windsurf). Includes an 8-check diagnostic doctor and Web Studio.</p>
       <p>
-        <a href="https://github.com/SapanMozammel/auterix"><img src="https://img.shields.io/github/stars/SapanMozammel/auterix?style=social" alt="Stars" /></a>
+        <a href="https://github.com/Fleect/auterix"><img src="https://img.shields.io/github/stars/Fleect/auterix?style=social" alt="Stars" /></a>
         <a href="https://www.npmjs.com/package/auterix"><img src="https://img.shields.io/npm/v/auterix?color=crimson" alt="npm" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/SapanMozammel/exhuma">Exhuma</a></h3>
+      <h3>🎨 <a href="https://github.com/Fleect/exhuma">Exhuma</a></h3>
       <p>High-performance React layout primitives, fluid GPU-accelerated interactive stacking cards, and modular component design architecture.</p>
       <p>
-        <a href="https://github.com/SapanMozammel/exhuma"><img src="https://img.shields.io/github/stars/SapanMozammel/exhuma?style=social" alt="Stars" /></a>
-        <a href="https://github.com/SapanMozammel/exhuma"><img src="https://img.shields.io/badge/TypeScript-Strict-blue" alt="TypeScript" /></a>
+        <a href="https://github.com/Fleect/exhuma"><img src="https://img.shields.io/github/stars/Fleect/exhuma?style=social" alt="Stars" /></a>
+        <a href="https://github.com/Fleect/exhuma"><img src="https://img.shields.io/badge/TypeScript-Strict-blue" alt="TypeScript" /></a>
       </p>
     </td>
   </tr>
@@ -41,15 +41,17 @@ Building robust web architectures, high-performance UI primitives, and autonomou
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/SapanMozammel/aufnehmen">Aufnehmen</a></h3>
+      <h3>🏛️ <a href="https://github.com/Fleect/aufnehmen">Aufnehmen</a></h3>
       <p>Enterprise MENN (MongoDB, Express, Next.js, Node.js) full-stack foundation with Auterix AI workflow, OpenAPI contracts, and strict architecture gates.</p>
       <p>
-        <a href="https://github.com/SapanMozammel/aufnehmen"><img src="https://img.shields.io/github/stars/SapanMozammel/aufnehmen?style=social" alt="Stars" /></a>
-        <a href="https://github.com/SapanMozammel/aufnehmen"><img src="https://img.shields.io/badge/Stack-MENN-emerald" alt="MENN" /></a>
+        <a href="https://github.com/Fleect/aufnehmen"><img src="https://img.shields.io/github/stars/Fleect/aufnehmen?style=social" alt="Stars" /></a>
+        <a href="https://github.com/Fleect/aufnehmen"><img src="https://img.shields.io/badge/Stack-MENN-emerald" alt="MENN" /></a>
       </p>
     </td>
   </tr>
 </table>
+
+* 📦 **Observability & Toolkits**: Author of [**`react-render-kit`**](https://github.com/SapanMozammel/react-render-kit) — 12 modular React render observability and memo profiling packages published under `@sapanmozammel/render-kit`.
 
 ---
 
