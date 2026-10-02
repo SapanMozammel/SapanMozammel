@@ -54,8 +54,6 @@ Building high-performance web architectures, GPU-accelerated UI primitives, and 
   </tr>
 </table>
 
-* 📦 **Observability & Toolkits**: Author of [**`react-render-kit`**](https://github.com/Fleect/react-render-kit) — 12 modular React render observability and memo profiling packages published under `@sapanmozammel/render-kit` (now under [Fleect](https://github.com/Fleect)).
-
 ---
 
 ### 🛠️ Core Tech Stack
