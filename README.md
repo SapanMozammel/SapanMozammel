@@ -26,10 +26,11 @@ Building high-performance web architectures, GPU-accelerated UI primitives, and 
     </td>
     <td width="50%" valign="top">
       <h3>🎨 <a href="https://github.com/Fleect/exhuma">Exhuma</a></h3>
-      <p>High-performance React layout primitives, fluid GPU-accelerated interactive stacking cards, and modular component design architecture.</p>
+      <p>Universal kinetic physics component engine across 13 frontend ecosystems. Zero runtime bloat, analytical spring ODEs, and 120 FPS. A Fleect Artifact.</p>
       <p>
         <a href="https://github.com/Fleect/exhuma"><img src="https://img.shields.io/github/stars/Fleect/exhuma?style=social" alt="Stars" /></a>
-        <a href="https://github.com/Fleect/exhuma"><img src="https://img.shields.io/badge/TypeScript-Strict-blue" alt="TypeScript" /></a>
+        <a href="https://exhuma-ui.com"><img src="https://img.shields.io/badge/Live-exhuma--ui.com-indigo" alt="Live Site" /></a>
+        <a href="https://www.npmjs.com/package/@fleect/exhuma"><img src="https://img.shields.io/npm/v/@fleect/exhuma?color=indigo" alt="npm" /></a>
       </p>
     </td>
   </tr>
@@ -53,7 +54,7 @@ Building high-performance web architectures, GPU-accelerated UI primitives, and 
   </tr>
 </table>
 
-* 📦 **Observability & Toolkits**: Author of [**`react-render-kit`**](https://github.com/SapanMozammel/react-render-kit) — 12 modular React render observability and memo profiling packages published under `@sapanmozammel/render-kit`.
+* 📦 **Observability & Toolkits**: Author of [**`react-render-kit`**](https://github.com/Fleect/react-render-kit) — 12 modular React render observability and memo profiling packages published under `@sapanmozammel/render-kit` (now under [Fleect](https://github.com/Fleect)).
 
 ---
 
